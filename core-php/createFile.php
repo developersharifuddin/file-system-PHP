@@ -41,7 +41,6 @@ echo "Welcome to this new app!";
 ?>
 EOD;
 
-
 // Check if the file exists, if so, overwrite with the new content
 if (file_exists($file)) {
     file_put_contents($file, $content);
