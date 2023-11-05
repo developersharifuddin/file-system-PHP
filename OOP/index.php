@@ -13,8 +13,7 @@
 
 
     <a href="openfile.php" class="btn btn-info" target="_blank" rel="noopener noreferrer">Open file</a>
-    <a href="createFile.php" class="btn btn-info" target="_blank" rel="noopener noreferrer">Create file</a>
-    <a href="openfile.php" class="btn btn-info" target="_blank" rel="noopener noreferrer">Open file</a>
+    <a href="create-new-content-ui.php" class="btn btn-info" target="_blank" rel="noopener noreferrer">Create New</a>
     <a href="openfile.php" class="btn btn-info" target="_blank" rel="noopener noreferrer">Open file</a>
 
 
